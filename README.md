@@ -1,5 +1,5 @@
 # CGRA
-TP's exercises solutions and projects for the CGRA curricular unit.
+TPs exercises solutions and projects for the CGRA curricular unit.
 
 ## Project Infos
 * Date: 2nd Year, 2st Semester, 2018/2019
